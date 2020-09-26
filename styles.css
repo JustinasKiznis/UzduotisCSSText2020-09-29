@@ -1,0 +1,16 @@
+header{
+	text-align: center;
+	text-transform: uppercase;
+}
+
+h2{
+	text-align: right;
+}
+
+article,p{
+	word-wrap: normal;
+}
+
+footer {
+	text-align: center;
+}
